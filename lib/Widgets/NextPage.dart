@@ -6,7 +6,7 @@ class NextPage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         automaticallyImplyLeading: false,
-        title: Text("Flutter Walkthroug"),
+        title: Text("Flutter Walkthrough"),
       ),
       body: Center(
         child: Text("Welcome"),
